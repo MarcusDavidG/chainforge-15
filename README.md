@@ -1,14 +1,14 @@
-# ⚡ ChainForge-15
+# ChainForge-15
 
 > **15 creative smart contract experiments on Base** - A curated collection of standalone projects showcasing diverse patterns and use cases on Base L2.
 
 Built for **Base January 2026** - demonstrating versatility in smart contract development from simple message boards to complex DeFi protocols.
 
-## 🎯 Project Overview
+## Project Overview
 
 This repository contains 15 independent mini-projects, each with its own smart contract, tests, and deployment scripts. Each project explores different blockchain use cases and Solidity patterns.
 
-## 📦 The 15 Projects
+## The 15 Projects
 
 | # | Project | Description | Key Features |
 |---|---------|-------------|--------------|
@@ -28,7 +28,7 @@ This repository contains 15 independent mini-projects, each with its own smart c
 | 14 | **Skill Registry** | Professional credentials | Issue certificates, endorsements, revocation |
 | 15 | **Tip Jar** | Creator monetization | Tips with messages, leaderboard, withdraw |
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: Foundry
 - **Language**: Solidity ^0.8.24
@@ -36,7 +36,7 @@ This repository contains 15 independent mini-projects, each with its own smart c
 - **Libraries**: OpenZeppelin Contracts
 - **Testing**: Forge
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ forge test --match-path 01-message-board/test/MessageBoard.t.sol -vvv
 forge test --gas-report
 ```
 
-## 📝 Project Structure
+## Project Structure
 
 ```
 chainforge-15/
@@ -89,7 +89,7 @@ chainforge-15/
 └── docs/
 ```
 
-## 🌐 Deployment
+## Deployment
 
 ### Setup Environment
 
@@ -135,7 +135,7 @@ forge script 01-message-board/script/Deploy.s.sol:DeployMessageBoard \
 ./deploy-all.sh base_sepolia
 ```
 
-## 📊 Contract Addresses
+## Contract Addresses
 
 ### Base Mainnet
 
@@ -157,7 +157,7 @@ forge script 01-message-board/script/Deploy.s.sol:DeployMessageBoard \
 | Skill Registry | TBD | [View](https://basescan.org) |
 | Tip Jar | TBD | [View](https://basescan.org) |
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 Each project demonstrates different concepts:
 
@@ -169,9 +169,9 @@ Each project demonstrates different concepts:
 - **11-12**: Time-based logic (vesting, time locks)
 - **13-15**: Complex state machines (predictions, registries, tips)
 
-## 🔒 Security Considerations
+## Security Considerations
 
-⚠️ **Important**: These contracts are educational demonstrations. Before mainnet deployment:
+**Important**: These contracts are educational demonstrations. Before mainnet deployment:
 
 1. Conduct thorough security audits
 2. Add comprehensive access controls
@@ -179,7 +179,7 @@ Each project demonstrates different concepts:
 4. Test extensively on testnet
 5. Consider formal verification for financial contracts
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning project for Base January 2026. Feel free to:
 
@@ -188,23 +188,23 @@ This is a learning project for Base January 2026. Feel free to:
 - Suggest improvements
 - Add your own creative projects
 
-## 📜 License
+## License
 
 MIT License - see [LICENSE](LICENSE) for details
 
-## 🔗 Links
+## Links
 
 - **Base Docs**: https://docs.base.org
 - **Foundry Book**: https://book.getfoundry.sh
 - **OpenZeppelin**: https://docs.openzeppelin.com
 - **Base January**: https://talent.app/~/earn/base-january
 
-## 👨‍💻 Author
+## Author
 
-Built with ⚡ for Base January 2026
+Built for Base January 2026
 
 ---
 
-**⭐ Star this repo if you find it useful!**
+**Star this repo if you find it useful!**
 
 *Part of the Base January 2026 builder initiative*
