@@ -2,7 +2,7 @@
 
 > **15 creative smart contract experiments on Base** - A curated collection of standalone projects showcasing diverse patterns and use cases on Base L2.
 
-Built for **Base January 2026** - demonstrating versatility in smart contract development from simple message boards to complex DeFi protocols.
+Built for **Base** - demonstrating versatility in smart contract development from simple message boards to complex DeFi protocols.
 
 ## Project Overview
 
