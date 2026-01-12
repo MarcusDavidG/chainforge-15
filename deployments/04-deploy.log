@@ -1,0 +1,35 @@
+Compiling 5 files with Solc 0.8.24
+Solc 0.8.24 finished in 1.36s
+Compiler run successful!
+Script ran successfully.
+
+== Return ==
+0: contract TokenFaucet 0xecf8698032C271F25b49749B6D3b8CF59D52d043
+
+== Logs ==
+  TokenFaucet deployed to: 0xecf8698032C271F25b49749B6D3b8CF59D52d043
+  Token address: 0x6F1DBCC3D49aE5654c3A3F315eBAf1AD5e122318
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 8453
+
+Estimated gas price: 0.001866067 gwei
+
+Estimated total gas used for script: 1472801
+
+Estimated amount required: 0.000002748345343667 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/marcus/chainforge-15/broadcast/Deploy.s.sol/8453/run-latest.json
+
+Sensitive values saved to: /home/marcus/chainforge-15/cache/Deploy.s.sol/8453/run-latest.json
+

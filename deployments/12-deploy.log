@@ -1,0 +1,34 @@
+Compiling 2 files with Solc 0.8.24
+Solc 0.8.24 finished in 1.05s
+Compiler run successful!
+Script ran successfully.
+
+== Return ==
+0: contract TimeCapsule 0x387862150b9285325f1489Ac14f8fe933472A6B3
+
+== Logs ==
+  TimeCapsule deployed to: 0x387862150b9285325f1489Ac14f8fe933472A6B3
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 8453
+
+Estimated gas price: 0.001802909 gwei
+
+Estimated total gas used for script: 697881
+
+Estimated amount required: 0.000001258215935829 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/marcus/chainforge-15/broadcast/Deploy.s.sol/8453/run-latest.json
+
+Sensitive values saved to: /home/marcus/chainforge-15/cache/Deploy.s.sol/8453/run-latest.json
+

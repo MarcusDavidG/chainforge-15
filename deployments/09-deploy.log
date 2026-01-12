@@ -1,0 +1,34 @@
+Compiling 2 files with Solc 0.8.24
+Solc 0.8.24 finished in 903.65ms
+Compiler run successful!
+Script ran successfully.
+
+== Return ==
+0: contract Crowdfunding 0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1
+
+== Logs ==
+  Crowdfunding deployed to: 0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 8453
+
+Estimated gas price: 0.001831575 gwei
+
+Estimated total gas used for script: 631615
+
+Estimated amount required: 0.000001156850243625 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/marcus/chainforge-15/broadcast/Deploy.s.sol/8453/run-latest.json
+
+Sensitive values saved to: /home/marcus/chainforge-15/cache/Deploy.s.sol/8453/run-latest.json
+

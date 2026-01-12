@@ -1,0 +1,25 @@
+Compiling 2 files with Solc 0.8.24
+Solc 0.8.24 finished in 1.03s
+Compiler run successful!
+Traces:
+  [763495] → new DeployTokenVesting@0x9f7cF1d1F558E57ef88a59ac3D47214eF25B6A06
+    └─ ← [Return] 3703 bytes of code
+
+  [3303] DeployTokenVesting::run()
+    ├─ [0] VM::envUint("PRIVATE_KEY") [staticcall]
+    │   └─ ← [Return] <env var value>
+    ├─ [0] VM::envAddress("TOKEN_ADDRESS") [staticcall]
+    │   └─ ← [Revert] vm.envAddress: failed parsing $TOKEN_ADDRESS as type `address`: parser error:
+$TOKEN_ADDRESS
+^
+invalid string length
+    └─ ← [Revert] vm.envAddress: failed parsing $TOKEN_ADDRESS as type `address`: parser error:
+$TOKEN_ADDRESS
+^
+invalid string length
+
+
+Error: script failed: vm.envAddress: failed parsing $TOKEN_ADDRESS as type `address`: parser error:
+$TOKEN_ADDRESS
+^
+invalid string length

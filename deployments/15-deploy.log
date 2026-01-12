@@ -1,0 +1,34 @@
+Compiling 2 files with Solc 0.8.24
+Solc 0.8.24 finished in 1.22s
+Compiler run successful!
+Script ran successfully.
+
+== Return ==
+0: contract TipJar 0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae
+
+== Logs ==
+  TipJar deployed to: 0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 8453
+
+Estimated gas price: 0.001785466 gwei
+
+Estimated total gas used for script: 1037094
+
+Estimated amount required: 0.000001851696075804 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/marcus/chainforge-15/broadcast/Deploy.s.sol/8453/run-latest.json
+
+Sensitive values saved to: /home/marcus/chainforge-15/cache/Deploy.s.sol/8453/run-latest.json
+
