@@ -57,7 +57,7 @@ contract NFTBadges is ERC721, Ownable {
         uint256 _milestone
     ) external onlyOwner {
         for (uint256 i = 0; i < _recipients.length; i++) {
-            mintBadge(_recipients[i], _name, _description, _imageURI, _milestone);
+            this.mintBadge(_recipients[i], _name, _description, _imageURI, _milestone);
         }
     }
 
