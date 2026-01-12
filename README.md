@@ -137,31 +137,40 @@ forge script 01-message-board/script/Deploy.s.sol:DeployMessageBoard \
 
 ## Contract Addresses
 
-### Base Mainnet (Deployed January 12, 2026)
+### Base Mainnet (Deployed & Verified January 12, 2026)
 
-All contracts are live and verified on Base Mainnet (Chain ID: 8453)
+All contracts are **LIVE, DEPLOYED, and VERIFIED** on Base Mainnet (Chain ID: 8453)
 
-| Project | Contract Address | BaseScan |
-|---------|------------------|----------|
-| Message Board | `0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4` | [View](https://basescan.org/address/0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4) |
-| Lucky Draw | `0xAeb94D997A26411550166bEe1b6da7f85a060240` | [View](https://basescan.org/address/0xAeb94D997A26411550166bEe1b6da7f85a060240) |
-| NFT Badges | `0xF39CF694CB195EA96f1735A2Ba62f0940260F30a` | [View](https://basescan.org/address/0xF39CF694CB195EA96f1735A2Ba62f0940260F30a) |
-| Token Faucet | `0xecf8698032C271F25b49749B6D3b8CF59D52d043` | [View](https://basescan.org/address/0xecf8698032C271F25b49749B6D3b8CF59D52d043) |
-| Escrow Service | `0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285` | [View](https://basescan.org/address/0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285) |
-| DAO Voting | `0xA9D811e31Aa66460C17b812fA625b79273c58668` | [View](https://basescan.org/address/0xA9D811e31Aa66460C17b812fA625b79273c58668) |
-| NFT Marketplace | `0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d` | [View](https://basescan.org/address/0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d) |
-| SimpleNFT (Helper) | `0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473` | [View](https://basescan.org/address/0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473) |
-| Subscription Service | `0x81c8d55A3B0ed4e37E90a984a4340582B4330d25` | [View](https://basescan.org/address/0x81c8d55A3B0ed4e37E90a984a4340582B4330d25) |
-| Crowdfunding | `0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1` | [View](https://basescan.org/address/0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1) |
-| Multi-Sig Wallet | `0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b` | [View](https://basescan.org/address/0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b) |
-| Token Vesting | `0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5` | [View](https://basescan.org/address/0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5) |
-| Time Capsule | `0x387862150b9285325f1489Ac14f8fe933472A6B3` | [View](https://basescan.org/address/0x387862150b9285325f1489Ac14f8fe933472A6B3) |
-| Prediction Market | `0x3A775022c593898b7D3b324D54f1F572aB92Cc8E` | [View](https://basescan.org/address/0x3A775022c593898b7D3b324D54f1F572aB92Cc8E) |
-| Skill Registry | `0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E` | [View](https://basescan.org/address/0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E) |
-| Tip Jar | `0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae` | [View](https://basescan.org/address/0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae) |
+| Project | Contract Address | Status | BaseScan |
+|---------|------------------|--------|----------|
+| Message Board | `0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4` | ✅ Verified | [View Code](https://basescan.org/address/0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4#code) |
+| Lucky Draw | `0xAeb94D997A26411550166bEe1b6da7f85a060240` | ✅ Verified | [View Code](https://basescan.org/address/0xAeb94D997A26411550166bEe1b6da7f85a060240#code) |
+| NFT Badges | `0xF39CF694CB195EA96f1735A2Ba62f0940260F30a` | ✅ Verified | [View Code](https://basescan.org/address/0xF39CF694CB195EA96f1735A2Ba62f0940260F30a#code) |
+| Token Faucet | `0xecf8698032C271F25b49749B6D3b8CF59D52d043` | ✅ Verified | [View Code](https://basescan.org/address/0xecf8698032C271F25b49749B6D3b8CF59D52d043#code) |
+| Escrow Service | `0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285` | ✅ Verified | [View Code](https://basescan.org/address/0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285#code) |
+| DAO Voting | `0xA9D811e31Aa66460C17b812fA625b79273c58668` | ✅ Verified | [View Code](https://basescan.org/address/0xA9D811e31Aa66460C17b812fA625b79273c58668#code) |
+| NFT Marketplace | `0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d` | ✅ Verified | [View Code](https://basescan.org/address/0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d#code) |
+| SimpleNFT (Helper) | `0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473` | ✅ Verified | [View Code](https://basescan.org/address/0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473#code) |
+| Subscription Service | `0x81c8d55A3B0ed4e37E90a984a4340582B4330d25` | ✅ Verified | [View Code](https://basescan.org/address/0x81c8d55A3B0ed4e37E90a984a4340582B4330d25#code) |
+| Crowdfunding | `0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1` | ✅ Verified | [View Code](https://basescan.org/address/0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1#code) |
+| Multi-Sig Wallet | `0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b` | ✅ Verified | [View Code](https://basescan.org/address/0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b#code) |
+| Token Vesting | `0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5` | ✅ Verified | [View Code](https://basescan.org/address/0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5#code) |
+| Time Capsule | `0x387862150b9285325f1489Ac14f8fe933472A6B3` | ✅ Verified | [View Code](https://basescan.org/address/0x387862150b9285325f1489Ac14f8fe933472A6B3#code) |
+| Prediction Market | `0x3A775022c593898b7D3b324D54f1F572aB92Cc8E` | ✅ Verified | [View Code](https://basescan.org/address/0x3A775022c593898b7D3b324D54f1F572aB92Cc8E#code) |
+| Skill Registry | `0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E` | ✅ Verified | [View Code](https://basescan.org/address/0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E#code) |
+| Tip Jar | `0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae` | ✅ Verified | [View Code](https://basescan.org/address/0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae#code) |
 
 **Deployer Address**: `0xDD7ECB0428d2071532db71437e02C7FD2922Ea31`  
-**Total Contracts**: 16 (15 main + 1 helper NFT)
+**Total Contracts**: 16 (15 main + 1 helper NFT)  
+**Verification Status**: All 16 contracts verified on BaseScan ✅  
+**Compiler Version**: Solidity 0.8.24
+
+### Verification Benefits
+- Full source code publicly viewable
+- Read/Write functions available on BaseScan UI
+- Contract ABI downloadable
+- Enhanced trust and transparency
+- Higher ranking on blockchain explorers
 
 ## Learning Objectives
 
