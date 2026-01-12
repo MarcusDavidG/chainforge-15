@@ -1,13 +1,18 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
+/// @title MessageBoard
+/// @notice A decentralized bulletin board for posting and managing messages
+/// @dev Implements pay-to-post mechanism with categories and editing capabilities
 contract MessageBoard {
+    /// @notice Structure representing a message on the board
+    /// @dev Stores all message metadata including edit status
     struct Message {
-        address author;
-        string content;
-        uint256 timestamp;
-        uint256 category;
-        bool edited;
+        address author;      // Address of message creator
+        string content;      // Message text content
+        uint256 timestamp;   // Block timestamp when posted
+        uint256 category;    // Category identifier
+        bool edited;         // Whether message has been edited
     }
 
     Message[] public messages;
