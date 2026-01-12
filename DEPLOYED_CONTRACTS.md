@@ -1,0 +1,63 @@
+# Deployed Contracts on Base Mainnet
+
+## Deployment Date: January 12, 2026
+
+All 15 contracts successfully deployed to Base Mainnet (Chain ID: 8453)
+
+| # | Contract | Address | BaseScan |
+|---|----------|---------|----------|
+| 01 | MessageBoard | `0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4` | [View](https://basescan.org/address/0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4) |
+| 02 | LuckyDraw | `0xAeb94D997A26411550166bEe1b6da7f85a060240` | [View](https://basescan.org/address/0xAeb94D997A26411550166bEe1b6da7f85a060240) |
+| 03 | NFTBadges | `0xF39CF694CB195EA96f1735A2Ba62f0940260F30a` | [View](https://basescan.org/address/0xF39CF694CB195EA96f1735A2Ba62f0940260F30a) |
+| 04 | TokenFaucet | `0xecf8698032C271F25b49749B6D3b8CF59D52d043` | [View](https://basescan.org/address/0xecf8698032C271F25b49749B6D3b8CF59D52d043) |
+| 05 | EscrowService | `0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285` | [View](https://basescan.org/address/0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285) |
+| 06 | DAOVoting | `0xA9D811e31Aa66460C17b812fA625b79273c58668` | [View](https://basescan.org/address/0xA9D811e31Aa66460C17b812fA625b79273c58668) |
+| 07 | NFTMarketplace | `0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d` | [View](https://basescan.org/address/0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d) |
+| 07b | SimpleNFT | `0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473` | [View](https://basescan.org/address/0x3D0Bde73fb1AeC16E097Bb0aBA405aaD8F346473) |
+| 08 | SubscriptionService | `0x81c8d55A3B0ed4e37E90a984a4340582B4330d25` | [View](https://basescan.org/address/0x81c8d55A3B0ed4e37E90a984a4340582B4330d25) |
+| 09 | Crowdfunding | `0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1` | [View](https://basescan.org/address/0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1) |
+| 10 | MultiSigWallet | `0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b` | [View](https://basescan.org/address/0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b) |
+| 11 | TokenVesting | `0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5` | [View](https://basescan.org/address/0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5) |
+| 12 | TimeCapsule | `0x387862150b9285325f1489Ac14f8fe933472A6B3` | [View](https://basescan.org/address/0x387862150b9285325f1489Ac14f8fe933472A6B3) |
+| 13 | PredictionMarket | `0x3A775022c593898b7D3b324D54f1F572aB92Cc8E` | [View](https://basescan.org/address/0x3A775022c593898b7D3b324D54f1F572aB92Cc8E) |
+| 14 | SkillRegistry | `0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E` | [View](https://basescan.org/address/0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E) |
+| 15 | TipJar | `0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae` | [View](https://basescan.org/address/0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae) |
+
+## Total Contracts: 16 (15 main + 1 helper NFT)
+
+## Deployer Address
+`0xDD7ECB0428d2071532db71437e02C7FD2922Ea31`
+
+## Next Steps
+
+1. ✅ All contracts deployed
+2. ⏳ Verify contracts on BaseScan
+3. ⏳ Test interactions
+4. ⏳ Generate daily activity
+5. ⏳ Track on Talent Protocol
+
+## Usage
+
+See individual project READMEs for interaction examples.
+
+## Environment Variables
+
+Add these to your `.env` for easy interaction:
+
+```bash
+MESSAGE_BOARD_ADDRESS=0xBe3dC286Dd61004fC05779Bd19E7Da4De61301d4
+LUCKY_DRAW_ADDRESS=0xAeb94D997A26411550166bEe1b6da7f85a060240
+NFT_BADGES_ADDRESS=0xF39CF694CB195EA96f1735A2Ba62f0940260F30a
+TOKEN_FAUCET_ADDRESS=0xecf8698032C271F25b49749B6D3b8CF59D52d043
+ESCROW_SERVICE_ADDRESS=0x4957e1e1f218eb4f0fD12Af5f94573E3EC799285
+DAO_VOTING_ADDRESS=0xA9D811e31Aa66460C17b812fA625b79273c58668
+NFT_MARKETPLACE_ADDRESS=0xDCEdc185f7caB8E21861C24909Cc327f1fd2Bb0d
+SUBSCRIPTION_SERVICE_ADDRESS=0x81c8d55A3B0ed4e37E90a984a4340582B4330d25
+CROWDFUNDING_ADDRESS=0xFeC7d44afd2fED73c55d85353D6d9727f623E7D1
+MULTISIG_WALLET_ADDRESS=0x42e0F0d5f7f3903C52B4dAF27f358e6b259FCf2b
+TOKEN_VESTING_ADDRESS=0xEAF919E1E12B40709Ef5Cf6B10fF9Cb838b56CC5
+TIME_CAPSULE_ADDRESS=0x387862150b9285325f1489Ac14f8fe933472A6B3
+PREDICTION_MARKET_ADDRESS=0x3A775022c593898b7D3b324D54f1F572aB92Cc8E
+SKILL_REGISTRY_ADDRESS=0xc1700E821BF2AA6132f93241e0e2F5e1eb85A20E
+TIP_JAR_ADDRESS=0x2da0E5Dd36756BEA7E21dfD5d8e8b224B2FAABae
+```
